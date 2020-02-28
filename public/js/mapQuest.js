@@ -1,3 +1,3 @@
 function initMap() {
-	// add your code here
+	.mapquest.key = 'fBwUstOgs4Zpr137AfYeINXr9tB3vlR2';
 }
